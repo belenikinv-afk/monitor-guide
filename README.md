@@ -2,6 +2,6 @@
 
 Статический сайт с подборкой мониторов (скандинавский стиль, Mac + Windows).
 
-**Сайт:** https://github.com — после публикации Pages ссылка будет в `PUBLIC_LINK.txt`.
+**Сайт:** https://belenikinv-afk.github.io/monitor-guide/
 
 Локально: `python3 -m http.server 8765` в этой папке, затем http://127.0.0.1:8765/

@@ -1,0 +1,11 @@
+Сайт для друзей (открывается в любом браузере, телефон/ПК):
+
+https://belenikinv-afk.github.io/monitor-guide/
+
+Репозиторий:
+https://github.com/belenikinv-afk/monitor-guide
+
+Локально (у себя):
+  cd "/Users/vova/Documents/ИИ/monitor-guide"
+  python3 -m http.server 8765
+  → http://127.0.0.1:8765/
